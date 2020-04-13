@@ -1,4 +1,4 @@
-<project name="test" default="dist" basedir="." xmlns:ivy="antlib:org.apache.ivy.ant">
+<project name="ant-ivy" default="dist" basedir="." xmlns:ivy="antlib:org.apache.ivy.ant">
                                                            <!-- Place ivy jar into ant/lib dir-->
     <description>
         simple example build file
