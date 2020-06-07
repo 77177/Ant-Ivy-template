@@ -1,2 +1,2 @@
-# Ant-Ivy-template
+# ant-ivy-template
 Ant+Ivy template
